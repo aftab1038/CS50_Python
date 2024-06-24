@@ -44,7 +44,7 @@ while True:
             # Checking for valid date and valid month
             if M>12 or D>31:
                 raise ValueError
-            # printing the date in year-month-day (YYYY-MM-DD) formate
+            # Printing the date in year-month-day (YYYY-MM-DD) formate
             print(f"{Y}-{M:02}-{D:02}")
 
         # Any date formate other than above 2, raise ValueError
