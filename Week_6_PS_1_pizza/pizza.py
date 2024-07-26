@@ -6,7 +6,6 @@ from tabulate import tabulate
 def main():
     # Getting Valid file name by calling function "valid_file()"
     Fname = valid_file()
-    print(Fname)
     # Trying to open the file if found
     try:
         # Dictionary to store the data of csv gile
