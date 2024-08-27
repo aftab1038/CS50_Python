@@ -75,6 +75,9 @@ Every exercise in this repository scored 100% on submission.
     - [Cookie Jar](/Week_8_PS_1_Jar/)
     - [CS50 Shirtificate](/Week_8_PS_1_Shirtificate/)
 
+- [Final Project](https://cs50.harvard.edu/python/2022/project/)
+  - [Project (US-States)](/Final%20Project/)
+
 ## `Final Certificate!`
 
 ![Final Certificate](/CS50P.png)
